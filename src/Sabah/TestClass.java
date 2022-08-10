@@ -1,4 +1,4 @@
-package Sabah;
+package src.Sabah;
 
 public class TestClass {
 	public static void main(String[] args) {
