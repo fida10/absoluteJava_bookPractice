@@ -1,4 +1,4 @@
-package src.Fida;
+package Fida;
 
 public class TestOne {
 }

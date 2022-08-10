@@ -1,4 +1,4 @@
-package src.Sabah;
+package Sabah;
 
 public class TestOne {
 }
